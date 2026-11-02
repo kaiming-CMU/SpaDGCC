@@ -1,0 +1,17 @@
+{
+  "h5ad": "data/151669/prepared.h5ad",
+  "image_features": "data/151669/image_features.npz",
+  "label_key": "ground_truth",
+  "clusters": 5,
+  "epochs": 250,
+  "hidden": 128,
+  "latent": 64,
+  "dropout": 0.0,
+  "lr": 0.001,
+  "p": 8,
+  "temperature": 1.0,
+  "threshold": 0.1,
+  "gate_init": 0.1,
+  "device": "auto",
+  "output": "results/151669"
+}
